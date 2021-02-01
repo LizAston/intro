@@ -1,0 +1,1099 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/liz/intro
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Counter.jsx
+> git ls-files --stage -- /home/liz/intro/src/Counter.jsx
+> git cat-file -s 4f48fb85900128c3bb76712216cefd4476270658
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git config --local branch.master.github-pr-owner-number
+> git check-ignore -v -z --stdin
+> git ls-files --stage -- /home/liz/intro/src/Counter.jsx
+> git cat-file -s 4f48fb85900128c3bb76712216cefd4476270658
+> git show --textconv :src/Counter.jsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/App.js
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git show --textconv :src/Counter.jsx
+> git ls-files --stage -- /home/liz/intro/src/Counter.jsx
+> git cat-file -s 4f48fb85900128c3bb76712216cefd4476270658
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/Counter.jsx
+> git cat-file -s 4f48fb85900128c3bb76712216cefd4476270658
+> git show --textconv :src/Counter.jsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/Counter.jsx
+> git cat-file -s 4f48fb85900128c3bb76712216cefd4476270658
+> git show --textconv :src/Counter.jsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Counter.jsx
+> git ls-files --stage -- /home/liz/intro/src/Counter.jsx
+> git cat-file -s 4f48fb85900128c3bb76712216cefd4476270658
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git show --textconv :src/Counter.jsx
+> git ls-files --stage -- /home/liz/intro/src/Counter.jsx
+> git cat-file -s 4f48fb85900128c3bb76712216cefd4476270658
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/Counter.jsx
+> git cat-file -s 4f48fb85900128c3bb76712216cefd4476270658
+> git show --textconv :src/Counter.jsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/Counter.jsx
+> git cat-file -s 4f48fb85900128c3bb76712216cefd4476270658
+> git show --textconv :src/Counter.jsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/Counter.jsx
+> git cat-file -s 4f48fb85900128c3bb76712216cefd4476270658
+> git show --textconv :src/Counter.jsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Counter.jsx
+> git ls-files --stage -- /home/liz/intro/src/Counter.jsx
+> git cat-file -s 4f48fb85900128c3bb76712216cefd4476270658
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/Counter.jsx
+> git cat-file -s 4f48fb85900128c3bb76712216cefd4476270658
+> git show --textconv :src/Counter.jsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/Counter.jsx
+> git cat-file -s 4f48fb85900128c3bb76712216cefd4476270658
+> git show --textconv :src/Counter.jsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+> git ls-files --stage -- /home/liz/intro/src/Counter.jsx
+> git cat-file -s 4f48fb85900128c3bb76712216cefd4476270658
+> git show --textconv :src/Counter.jsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/liz/intro/src/App.js
+> git cat-file -s 72232d2f27da60885ca56772f67ca05e57b158b5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Counter.jsx
+> git ls-files --stage -- /home/liz/intro/src/Counter.jsx
+> git cat-file -s 4f48fb85900128c3bb76712216cefd4476270658
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/intro/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git add -A -- /home/liz/intro/.eslintcache /home/liz/intro/src/App.js /home/liz/intro/src/Counter.jsx /home/liz/intro/~/root/Cache/625bbe30771f2f39_0 /home/liz/intro/~/root/Cache/c85687354a0e770a_0 /home/liz/intro/~/root/Cache/cbc42e4c979f69f0_0 /home/liz/intro/~/root/Cache/index-dir/the-real-index /home/liz/intro/~/root/CachedExtensions/user /home/liz/intro/~/root/Cookies /home/liz/intro/~/root/GPUCache/data_1 /home/liz/intro/~/root/GPUCache/index /home/liz/intro/~/root/Local Storage/leveldb/LOG /home/liz/intro/~/root/Local Storage/leveldb/LOG.old /home/liz/intro/~/root/TransportSecurity /home/liz/intro/~/root/User/globalStorage/state.vscdb /home/liz/intro/~/root/User/workspaceStorage/afb7c3a5b4837397dd9a8261ccbc2696/state.vscdb /home/liz/intro/~/root/storage.json /home/liz/intro/~/root/Backups/555dea7b3aec3010a8f8d5e539a4ee61/file/249190b39a4bdd50aadc4936c6f44df5 /home/liz/intro/~/root/CachedData/ea3859d4ba2f3e577a159bc91e3074c5d85c0523/extension-d3ad3d4df4540e69f2876f352dac9ed4.code /home/liz/intro/~/root/logs/20210201T104939/exthost1/exthost.log /home/liz/intro/~/root/logs/20210201T104939/exthost1/output_logging_20210201T104941/1-Microsoft Authentication.log /home/liz/intro/~/root/logs/20210201T104939/exthost1/output_logging_20210201T104941/2-TypeScript.log /home/liz/intro/~/root/logs/20210201T104939/exthost1/output_logging_20210201T104941/3-Git.log /home/liz/intro/~/root/logs/20210201T104939/exthost1/output_logging_20210201T104941/4-GitHub Pull Request.log /home/liz/intro/~/root/logs/20210201T104939/exthost1/output_logging_20210201T104941/5-GitHub Authentication.log /home/liz/intro/~/root/logs/20210201T104939/main.log /home/liz/intro/~/root/logs/20210201T104939/output_1_20210201T104940/extensions.log /home/liz/intro/~/root/logs/20210201T104939/output_1_20210201T104940/tasks.log /home/liz/intro/~/root/logs/20210201T104939/renderer1.log /home/liz/intro/~/root/logs/20210201T104939/sharedprocess.log /home/liz/intro/~/root/logs/20210201T104939/telemetry.log /home/liz/intro/~/root/logs/20210201T104939/userDataSync.log

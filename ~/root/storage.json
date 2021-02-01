@@ -98,8 +98,7 @@
                     },
                     {
                         "id": "workbench.action.files.saveAll",
-                        "label": "Save A&&ll",
-                        "enabled": false
+                        "label": "Save A&&ll"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1464,7 +1463,7 @@
             "folder": "file:///home/liz/intro",
             "backupPath": "/home/liz/intro/~/root/Backups/555dea7b3aec3010a8f8d5e539a4ee61",
             "uiState": {
-                "mode": 0,
+                "mode": 1,
                 "x": 72,
                 "y": 68,
                 "width": 1016,

@@ -1,3 +1,4 @@
+file:///home/liz/intro/src/App.js {"mtime":1612185567233,"ctime":1611913235080,"size":335,"etag":"36dad2eljap","orphaned":false}
 import React from "react";
 import Counter from "./Counter";
 import './App.css';
